@@ -1,4 +1,4 @@
-# 👋 Hello World!, I'm Antonius Tanoto
+# 👋 Hello!, I'm Antonius Tanoto
 
 ### Information Systems Student | Full Stack Web Developer | Android Developer
 
