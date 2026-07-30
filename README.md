@@ -1,4 +1,6 @@
-# 👋 Hello World!, I'm Antonius Tanoto
+# 👋 Hello!, I'm Antonius Tanoto
+
+![Antonius Tanoto](img/github-header-banner.png)
 
 ### Information Systems Student | Full Stack Web Developer | Android Developer
 
@@ -12,7 +14,7 @@ I'm an Information Systems student who enjoys building digital solutions that so
 * 💻 Interested in Full Stack Web Development
 * 📱 Android Application Developer (Java)
 * 🎨 Passionate about UI/UX Design
-* 🌱 Currently learning Laravel, REST API, and modern web technologies
+* 🌱 Currently learning modern web technologies
 * 🎯 Goal: Build impactful digital products that improve everyday life
 
 ---
@@ -21,37 +23,23 @@ I'm an Information Systems student who enjoys building digital solutions that so
 
 ### Programming Languages
 
-* Java
-* PHP
-* JavaScript
-* HTML
-* CSS
-* SQL
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php&theme=dark)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 
-* Laravel
-* Bootstrap
-* Tailwind CSS
+[![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap,tailwind&theme=dark)](https://skillicons.dev)
 
 ### Mobile Development
 
-* Android Studio
-* Java
-* Room Database
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,java&theme=dark)](https://skillicons.dev)
 
 ### Database
 
-* MySQL
-* SQLite
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)](https://skillicons.dev)
 
 ### Tools
 
-* Git
-* GitHub
-* Visual Studio Code
-* Android Studio
-* Figma
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -131,10 +119,7 @@ A simple financial management system for small and medium-sized businesses (SMEs
 
 ## 📫 Connect With Me
 
-* Instagram: https://www.instagram.com/antonius.tanoto
-* GitHub: https://github.com/Antonius898
-* LinkedIn: https://linkedin.com/in/antoniustanoto
-* Email: [antoniustanoto898@gmail.com](mailto:your.email@example.com)
+![https://www.instagram.com/antonius.tanoto](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://linkedin.com/in/antoniustanoto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://github.com/Antonius898](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![antoniustanoto898@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
