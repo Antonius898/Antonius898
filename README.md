@@ -23,23 +23,23 @@ I'm an Information Systems student who enjoys building digital solutions that so
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php&theme=dark)
 
 ### Frameworks & Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap,tailwind&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=laravel,bootstrap,tailwind&theme=dark)
 
 ### Mobile Development
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,java&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,java&theme=dark)
 
 ### Database
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&theme=dark)
 
 ---
 
@@ -119,7 +119,7 @@ A simple financial management system for small and medium-sized businesses (SMEs
 
 ## 📫 Connect With Me
 
-![https://www.instagram.com/antonius.tanoto](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://linkedin.com/in/antoniustanoto](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://github.com/Antonius898](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![antoniustanoto898@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![https://www.instagram.com/antonius.tanoto](https://skillicons.dev/icons?i=instagram&theme=dark) ![https://linkedin.com/in/antoniustanoto](https://skillicons.dev/icons?i=linkedin&theme=dark) ![https://github.com/Antonius898](https://skillicons.dev/icons?i=github&theme=dark) ![antoniustanoto898@gmail.com](https://skillicons.dev/icons?i=gmail&theme=dark)
 
 ---
 
