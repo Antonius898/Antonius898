@@ -59,7 +59,10 @@ I'm an Information Systems student who enjoys building digital solutions that so
 
 ### 🍽️ DineReserve
 
-Restaurant reservation system built with Laravel.
+A restaurant reservation system developed with Laravel that streamlines table booking and restaurant management.
+
+**Repository:**
+🔗 https://github.com/Antonius898/dinereserve
 
 **Features**
 
@@ -69,7 +72,7 @@ Restaurant reservation system built with Laravel.
 * Reservation History
 * Responsive Dashboard
 
-**Tech**
+**Tech Stack**
 
 * Laravel
 * Blade
@@ -81,7 +84,10 @@ Restaurant reservation system built with Laravel.
 
 ### 🐾 PetCare App
 
-Android application for pet care services.
+An Android application designed to simplify pet care services, including hotel bookings and grooming reservations.
+
+**Repository:**
+🔗 https://github.com/vicenzomoy/PetCareApp
 
 **Features**
 
@@ -90,7 +96,7 @@ Android application for pet care services.
 * Grooming Reservation
 * Room Database Integration
 
-**Tech**
+**Tech Stack**
 
 * Java
 * Android Studio
@@ -101,7 +107,10 @@ Android application for pet care services.
 
 ### 💰 SI UMKM
 
-Simple financial recording system for small businesses.
+A simple financial management system for small and medium-sized businesses (SMEs) to record income, expenses, and generate financial reports.
+
+**Repository:**
+🔗 https://github.com/Antonius898/siumkm
 
 **Features**
 
@@ -110,17 +119,19 @@ Simple financial recording system for small businesses.
 * Dashboard
 * User Authentication
 
-**Tech**
+**Tech Stack**
 
 * Laravel
 * Blade
 * MySQL
 * Bootstrap
 
+
 ---
 
 ## 📫 Connect With Me
 
+* Instagram: https://www.instagram.com/antonius.tanoto
 * GitHub: https://github.com/Antonius898
 * LinkedIn: https://linkedin.com/in/antoniustanoto
 * Email: [antoniustanoto898@gmail.com](mailto:your.email@example.com)
