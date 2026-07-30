@@ -119,7 +119,7 @@ A simple financial management system for small and medium-sized businesses (SMEs
 
 ## 📫 Connect With Me
 
-![https://www.instagram.com/antonius.tanoto](https://skillicons.dev/icons?i=instagram&theme=dark) ![https://linkedin.com/in/antoniustanoto](https://skillicons.dev/icons?i=linkedin&theme=dark) ![https://github.com/Antonius898](https://skillicons.dev/icons?i=github&theme=dark) ![antoniustanoto898@gmail.com](https://skillicons.dev/icons?i=gmail&theme=dark)
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/antonius.tanoto) [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/antoniustanoto) [![Github](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/Antonius898) [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](antoniustanoto898@gmail.com)
 
 ---
 
