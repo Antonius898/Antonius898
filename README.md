@@ -2,7 +2,7 @@
 
 ![Antonius Tanoto](img/github-header-banner.png)
 
-### Information Systems Student | Full Stack Web Developer | Android Developer
+### Information Systems Student | Aspiring Full Stack Web Developer | Aspiring Android Developer
 
 I'm an Information Systems student who enjoys building digital solutions that solve real-world problems. I have experience developing web applications using Laravel and creating Android applications with Java. I am passionate about software development, UI/UX design, and continuously learning new technologies.
 
